@@ -1,0 +1,24 @@
+.main{
+    width:100%;
+    margin:0px;
+    display:inline-block;
+    
+}
+.container1{
+    background-color: aqua;
+    border: 2px dashed blue;
+    height:400px;
+    width:45%;
+    float:left;
+    margin:20px;
+    padding:10px;
+}
+.container2{
+    background-color:coral;
+    border: 2px dashed blue;
+     height:400px;
+    width:45%;
+       float:right;
+      padding:10px;
+      margin:20px;
+}

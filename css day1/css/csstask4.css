@@ -1,0 +1,54 @@
+.main{
+    width:100%;
+    height:400px;
+    
+}
+.left{
+    display:block;
+    width:25%;
+    height:400px;
+    
+   
+}
+.sidebar{
+    background-color: brown;
+    width:25%;
+    
+    height:100px;
+}
+.rightdiv{
+    background-color:chartreuse;
+    width:25%;
+ 
+    height:300px;
+}
+
+.mainbar{
+    width:40%;
+    height:400px;
+     background-color:darkcyan;
+
+    clear:both;
+    display:inline-block;
+}
+
+.right{
+    display: block;
+    width:25%;
+    height:400px;
+     
+    display:inline-block;
+}
+
+.bottomdiv{
+    background-color:chartreuse;
+    width:25%;
+
+    height:300px;
+}
+.rightfooter{
+    background-color: brown;
+    width:25%;
+
+    height:100px;
+}
